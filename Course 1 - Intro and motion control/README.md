@@ -1,0 +1,1 @@
+# Start CARLA simulator with launch.bat on windows to avoid crashes
